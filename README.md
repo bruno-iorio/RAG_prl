@@ -1,7 +1,7 @@
-# PRL repo dedicated to analysing geoclef dataset with RAG
+This repo contains the scripts used for my PRL(lab research project).
 
-Dataset will be kept local;
-This repo is merely for backup;
+Project title: Testing LLMs capabilities in
+Geographic Information Retrieval
+Supervisor: Davide Buscaldi
+Place: DIX, École Polytechnique
 
-
-Public use or distribution is not authorized.
